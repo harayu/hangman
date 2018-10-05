@@ -7,3 +7,5 @@ def index():
     return "Hello, World!"
 
 app.run(port=8000)
+
+x = 100
